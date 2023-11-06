@@ -1,8 +1,8 @@
-# README del Proyecto de Manejo de Errores en Spring 🚀
+# README del Proyecto de Manejo de Errores en Spring ⚠️
 
 Este proyecto de muestra demuestra cómo manejar errores en una aplicación basada en el framework Spring. El proyecto incluye un controlador, servicios y excepciones personalizadas para mostrar cómo se pueden gestionar diferentes tipos de errores.
 
-## Estructura del Proyecto
+## Estructura del Proyecto 📄
 
 El proyecto consta de varias partes, cada una con un propósito específico:
 
@@ -28,14 +28,5 @@ El proyecto consta de varias partes, cada una con un propósito específico:
 
 ## Uso 🧐
 
-Puedes utilizar este proyecto como ejemplo para aprender sobre el manejo de errores en aplicaciones Spring. Explora el código fuente y observa cómo se gestionan las excepciones y se proporciona información detallada sobre los errores.
+Puedes utilizar este proyecto como ejemplo para aprender sobre el manejo de errores en aplicaciones Spring. Explora el código fuente y observa cómo se gestionan las excepciones y se proporciona información detallada sobre su funcionamiento en los comentarios.
 
-## Contribución 🤝
-
-Si deseas contribuir a este proyecto, ¡serás bienvenido! Siéntete libre de abrir un problema (issue) o enviar una solicitud de extracción (pull request).
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
-
-¡Diviértete explorando y aprendiendo sobre el manejo de errores en Spring! 😄👨‍💻
