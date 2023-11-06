@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF--8">
+<title th:text=${error}></title>
+<link rel="stylesheet" type="text/css" th:href="@{/css/style.css}">
+</head>
+<body>
+	<div class="titulo">
+		<h2 th:text=${error}></h2>
+		<img th:src="@{/images/error.png}">
+	</div>
+	
+
+	<div th:text=${message}></div>
+	<div th:text="'Error: ' + ${status}"></div>
+	<div th:text=${timestamp}></div>
+	
+</body>
+</html>

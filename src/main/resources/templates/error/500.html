@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF--8">
+<title>Error 500</title>
+<link rel="stylesheet" type="text/css" th:href="@{/css/style.css}">
+</head>
+<body>
+	<div class="titulo">
+		<h2>Ha ocurrido un error, Oops!</h2>
+		<img th:src="@{/images/error.png}">
+	</div>
+	
+	<div th:text=${error}></div>
+	<div th:text=${message}></div>
+	<div th:text="'Error: ' + ${status}"></div>
+	<div th:text=${timestamp}></div>
+	<hr>
+	<div th:text=${trace}></div>
+</body>
+</html>
